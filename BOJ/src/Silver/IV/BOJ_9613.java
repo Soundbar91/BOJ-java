@@ -36,6 +36,6 @@ public class BOJ_9613 {
             }
             sb.append(String.valueOf(result)).append('\n');
         }
-        System.out.println(sb);
+        System.out.print(sb);
     }
 }
