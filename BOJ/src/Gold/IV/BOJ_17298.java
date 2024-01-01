@@ -53,6 +53,6 @@ public class BOJ_17298 {
             sb.append(nge.pop()).append(' ');
         }
         sb.append(nge.pop());
-        System.out.println(sb);
+        System.out.print(sb);
     }
 }
