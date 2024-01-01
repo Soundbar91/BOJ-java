@@ -16,7 +16,6 @@ public class BOJ_1929 {
         for (int i = 2; i <= N; i++){
             numArr[i] = i;
         }
-
         for (int i = 2; i <= Math.sqrt(N); i++){
             if (numArr[i] == 0) {
                 continue;
