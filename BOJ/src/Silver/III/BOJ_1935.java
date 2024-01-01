@@ -10,6 +10,7 @@ public class BOJ_1935 {
 
         int n = Integer.parseInt(br.readLine());
         String str = br.readLine();
+        
         int[] numArr = new int[n];
         int index = 0;
 
