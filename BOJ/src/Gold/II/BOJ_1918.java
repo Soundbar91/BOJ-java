@@ -41,7 +41,7 @@ public class BOJ_1918 {
         while(!stack.empty()){
             sb.append(stack.pop());
         }
-        System.out.println(sb);
+        System.out.print(sb);
     }
 
     public static int precedence(char ch){
