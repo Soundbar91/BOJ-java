@@ -3,7 +3,6 @@ package Silver.II;
 import java.io.*;
 import java.util.Stack;
 import java.util.StringTokenizer;
-
 public class BOJ_1406 {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
