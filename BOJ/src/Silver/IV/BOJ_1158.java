@@ -39,7 +39,7 @@ public class BOJ_1158 {
         }
         sb.append(queue.remove()).append('>');
 
-        System.out.println(sb);
+        System.out.print(sb);
 
     }
 }
