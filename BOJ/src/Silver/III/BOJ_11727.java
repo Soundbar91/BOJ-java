@@ -8,7 +8,6 @@ public class BOJ_11727 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
-
         int[] dp = new int[1001];
         dp[0] = 0;
         dp[1] = 1;
