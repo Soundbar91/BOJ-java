@@ -59,6 +59,6 @@ public class BOJ_17299 {
             sb.append(outputStack.pop()).append(' ');
         }
         sb.append(outputStack.pop());
-        System.out.println(sb);
+        System.out.print(sb);
     }
 }
