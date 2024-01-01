@@ -23,6 +23,6 @@ public class BOJ_9095 {
             int num = Integer.parseInt(br.readLine());
             sb.append(String.valueOf(dp[num])).append("\n");
         }
-        System.out.println(sb);
+        System.out.print(sb);
     }
 }
