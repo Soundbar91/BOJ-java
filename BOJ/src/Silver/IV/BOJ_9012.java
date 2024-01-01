@@ -41,6 +41,6 @@ public class BOJ_9012 {
             }
             sb.append("\n");
         }
-        System.out.println(sb);
+        System.out.print(sb);
     }
 }
